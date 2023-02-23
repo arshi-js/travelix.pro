@@ -1052,6 +1052,11 @@ h6 {
   margin-bottom: 32px;
 }
 
+.about {
+  padding-top: 80px;
+  padding-bottom: 83px;
+}
+
 .about__container {
   display: -webkit-box;
   display: -ms-flexbox;
