@@ -786,7 +786,7 @@ h6 {
 }
 
 .item-trip__image:hover::after {
-  background-color: rgba(202, 202, 202, 0.0941176471);
+  background-color: rgba(0, 0, 0, 0.1176470588);
 }
 
 .item-trip__image::after {
