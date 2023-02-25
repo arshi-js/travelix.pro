@@ -1,14 +1,14 @@
-#Travelix.pro
+# Travelix.pro
 Travelix.pro is a Tourism landing page designed for promoting and selling travel agency services.
 
-##Features and Highlights
+## Features and Highlights
 Travelix.pro provides the following features and highlights:
 
 - Information about tours and travel destinations;
 - Contact form for customers;
 - Contact information for the travel agency;
 - Sign-up and login buttons.
-##Technology Stack
+## Technology Stack
 Travelix.pro was developed using the following technology stack:
 
 - HTML
@@ -16,7 +16,7 @@ Travelix.pro was developed using the following technology stack:
 - JavaScript
 - Gulp
 - Webpack
-##Installation and Usage
+## Installation and Usage
 To run Travelix.pro, follow these steps:
 
 Download and extract the project archive to your local machine.
